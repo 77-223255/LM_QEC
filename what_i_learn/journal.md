@@ -10,6 +10,16 @@
 ### 当前困难
 [QI_E_Lecture_Notes_Intro_QEC.pdf](../reading/QI_E_Lecture_Notes_Intro_QEC.pdf) 从基本电路框架直接跳入稳定子框架，中间衔接不足，理解困难。
 
+### 架构理解
+
+量子纠错的理解框架目前梳理为三层：
+
+1. **第一层 — 基本码**：如 3-bit 码、Shor 码等。在稳定子引入之前即被提出，具有强经典引入特性，人为直接构造。重点在于理解各码本身的特点。
+2. **第二层 — 稳定子框架**：在第一层基础上提炼，通过引入稳定子形式化实现。
+3. **第三层 — 框架扩展**：稳定子框架建立后涌现的各类纠错码。
+
+AI/大模型与量子纠错的结合点主要在**解码阶段**（症状 → 物理错误映射）。因此至少需要理解稳定子框架搭建后各类纠错码的具体形式及其输入输出。
+
 ### 下一步计划
 - 学习 [Surviving_as_Quantum_Computer_Classical_World.pdf](../reading/Gottesman/Surviving_as_Quantum_Computer_Classical_World.pdf) 第 2–3 章衔接部分，梳理从基本纠错到稳定子形式化的逻辑主线
 - 目标：下周汇报前完成稳定子衔接部分的学习
