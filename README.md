@@ -31,3 +31,7 @@ To find which ones commute and which do not.
 With group and eigenstate, we've learned to fix<br>
 Your quantum errors with our quantum tricks.
 </div>
+
+<div align="center">
+[Daniel Gottesman — Homepage](https://www.perimeterinstitute.ca/personal/dgottesman/)
+</div>
