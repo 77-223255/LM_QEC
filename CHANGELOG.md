@@ -30,3 +30,30 @@
 
 ### Removed
 - `QI_E.pdf`, `QI_E_learn.py` — 已迁移至 `reading/`
+
+## 2026-05-26
+
+### Changed
+- `[reading/](./reading/)` 重构：清空旧散乱文件，搬入 `origin/`（`papers/` + `lectures/`）和 `guide/`（4 条路线 MD）
+- `[what_i_learn/](./what_i_learn/)` 合并 `my_works/`，新增期末作业说明
+- 所有论文统一命名格式为 `年份_标题.pdf`
+
+### Added
+- `[reading/origin/papers/](./reading/origin/papers/)` — 所有论文平铺（30 篇）
+- `[reading/origin/lectures/](./reading/origin/lectures/)` — 讲义/书（3 份）
+- `[reading/guide/](./reading/guide/)` — 知识脉络梳理
+  - `quantum_error_correction.md` — 量子纠错主线
+  - `quantum_optimization.md` — 量子优化与绝热算法
+  - `ai_for_quantum.md` — AI+量子计算
+  - `topological_and_architecture.md` — 拓扑量子计算与物理架构
+- `[temporary/origin/code/hard_instance_learning/](./temporary/origin/code/hard_instance_learning/)` — 论文配套代码（未公开）
+- `[what_i_learn/](./what_i_learn/)` — `2026_QEC.pptx` + `2026_量子纠错.pdf`（量子光学期末作业）
+- `[what_i_learn/journal.md](./what_i_learn/journal.md)` — 新增 2026-05-22 学习记录
+
+### Removed
+- `[reading/](./reading/)` 旧散列 PDF 及 `Gottesman/`、`lin/` 子目录
+- `[temporary/](./temporary/)` 下的 `collection/` 作者分类目录
+- 所有 `:Zone.Identifier` Windows 残留文件
+
+### Fixed
+- `量子纠错导论.pptx` 年份修正：2024 → 2026
