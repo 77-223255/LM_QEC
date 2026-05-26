@@ -1,10 +1,5 @@
 # Changelog
 
-## 2026-05-28
-
-### Removed
-- `[temporary/](./temporary/)` 移出仓库，仅保留为本地工作副本
-
 ## 2026-05-26
 
 ### Changed
