@@ -20,7 +20,7 @@
 ### 2022 — 量子绝热质因数分解的困难实例学习 `[B]`
 - **Jian Lin, Zhengfeng Zhang, Junping Zhang, Xiaopeng Li**
 - 利用机器学习识别量子绝热因式分解的困难实例
-- [论文](../origin/papers/2022_Hard_Instance_Learning_for_Quantum_Adiabatic_Prime_Factorization.pdf)
+- [origin/papers/2022_Hard_Instance_Learning_for_Quantum_Adiabatic_Prime_Factorization.pdf](../origin/papers/2022_Hard_Instance_Learning_for_Quantum_Adiabatic_Prime_Factorization.pdf)
 
 ### 2022 — 原子 Fermi-Hubbard 模拟中的绝热掺杂
 - **Jue Nan, Jian Lin, Yuchen Luo et al.**
