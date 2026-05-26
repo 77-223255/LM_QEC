@@ -60,4 +60,4 @@
 ## 2026-05-26 (后续)
 
 ### Removed
-- `[temporary/](./temporary/)` 移出仓库，仅保留为本地工作副本（含未公开代码）
+- `[temporary/](./temporary/)` 移出仓库，仅保留为本地工作副本
