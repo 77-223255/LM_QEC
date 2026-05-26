@@ -46,14 +46,18 @@
   - `quantum_optimization.md` — 量子优化与绝热算法
   - `ai_for_quantum.md` — AI+量子计算
   - `topological_and_architecture.md` — 拓扑量子计算与物理架构
-- `[temporary/origin/code/hard_instance_learning/](./temporary/origin/code/hard_instance_learning/)` — 论文配套代码（未公开）
 - `[what_i_learn/](./what_i_learn/)` — `2026_QEC.pptx` + `2026_量子纠错.pdf`（量子光学期末作业）
 - `[what_i_learn/journal.md](./what_i_learn/journal.md)` — 新增 2026-05-22 学习记录
 
 ### Removed
 - `[reading/](./reading/)` 旧散列 PDF 及 `Gottesman/`、`lin/` 子目录
-- `[temporary/](./temporary/)` 下的 `collection/` 作者分类目录
+- `collection/` 作者分类目录
 - 所有 `:Zone.Identifier` Windows 残留文件
 
 ### Fixed
 - `量子纠错导论.pptx` 年份修正：2024 → 2026
+
+## 2026-05-26 (后续)
+
+### Removed
+- `[temporary/](./temporary/)` 移出仓库，仅保留为本地工作副本（含未公开代码）
